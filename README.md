@@ -18,20 +18,20 @@ The objective of this project is to help businesses monitor key metrics and make
 🛒 Product-wise Sales Performance
 🎯 Interactive Filters & Slicers
 ## 🛠️ Tools & Technologies
-Power BI
-Power Query
-DAX
-Data Modeling
-Data Cleaning
-Microsoft Excel
+Power BI|
+Power Query|
+DAX|
+Data Modeling|
+Data Cleaning|
+Microsoft Excel|
 ## 📈 Key KPIs
-Net Sales
-Total Quantity
-Average Order Value
-Total Customers
-Customer Lifetime Value
-Purchase Frequency
-Repeat Customer Rate
+Net Sales|
+Total Quantity|
+Average Order Value|
+Total Customers|
+Customer Lifetime Value|
+Purchase Frequency|
+Repeat Customer Rate|
 
  ## Author 
  Preeti Raj
